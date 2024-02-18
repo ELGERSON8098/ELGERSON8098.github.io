@@ -1,0 +1,133 @@
+.productos {
+    font-style: rgb(16, 16, 56);
+    padding: 20px;
+    margin: 20px;
+    position: absolute;
+    top: 50px;
+    left: 190px;
+}
+
+.mi-contenedor {
+    background-color: rgb(241, 241, 241);
+    /* Color de fondo blanco */
+    padding: 20px;
+    margin: 20px;
+    border: none;
+    border-radius: 20px;
+    width: 1112px;
+    height: 598px;
+    position: absolute;
+    top: 60px;
+    left: 213px;
+}
+
+.contenedor_produc .card {
+    position: absolute;
+    top: 55px;
+    left: 690px;
+    padding: 20px;
+    margin: 20px;
+    border: none;
+    border-radius: 20px;
+    width: 260px;
+    height: 450px;
+    /* Esto quitará los bordes de todas las tarjetas dentro del contenedor */
+}
+
+
+.contenedor_produc1 .card {
+    position: absolute;
+    top: 55px;
+    left: 330px;
+    padding: 20px;
+    margin: 20px;
+    border: none;
+    border-radius: 20px;
+    width: 260px;
+    height: 450px;
+    /* Esto quitará los bordes de todas las tarjetas dentro del contenedor */
+}
+
+.contenedor_produc2 .card {
+    position: absolute;
+    top: 55px;
+    left: 1px;
+    padding: 20px;
+    margin: 20px;
+    border: none;
+    border-radius: 20px;
+    width: 260px;
+    height: 450px;
+    /* Esto quitará los bordes de todas las tarjetas dentro del contenedor */
+}
+
+.imgflech {
+    position: absolute;
+    top: 210px;
+    left: 990px;
+}
+
+#textoProducto {
+    position: absolute;
+    top: 270px;
+    left: 30px;
+    /* Ajusta el margen superior según tus preferencias */
+}
+
+#textoProducto1 {
+    position: absolute;
+    top: 270px;
+    left: 30px;
+    /* Ajusta el margen superior según tus preferencias */
+}
+
+#textoProducto2 {
+    position: absolute;
+    top: 230px;
+    left: 50px;
+    /* Ajusta el margen superior según tus preferencias */
+}
+
+#imagenProducto {
+    position: absolute;
+    top: 15px;
+    left: 20px;
+}
+
+#imagenProducto1 {
+    position: absolute;
+    top: 30px;
+    left: 20px;
+    width: 220px;
+}
+
+#imagenProducto2 {
+    position: absolute;
+    top: 130px;
+    left: 110px;
+    width: 50px;
+}
+
+#icon1 {
+    position: absolute;
+    top: 370px;
+    left: 60px;
+}
+
+#icon2 {
+    position: absolute;
+    top: 370px;
+    left: 155px;
+}
+
+#icon3 {
+    position: absolute;
+    top: 370px;
+    left: 60px;
+}
+
+#icon4 {
+    position: absolute;
+    top: 370px;
+    left: 155px;
+}
